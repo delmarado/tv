@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="|PT|  RTP 1 HD" tvg-logo="" group-title="PORTUGAL",|PT|  RTP 1 HD
+#EXTINF:-0 tvg-id="" tvg-name="|PT|  RTP 1 HD" tvg-logo="" group-title="PORTUGAL",|PT|  RTP 1 HD
 http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26868&h=4c148857c1acd72c4bd6655eb65855c76090f4e5&n=1701558834&i=79.94.219.244
 #EXTINF:-1 tvg-id="" tvg-name="|PT|  RTP 1 4K" tvg-logo="" group-title="PORTUGAL",|PT|  RTP 1 4K
 http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26869&h=4c148857c1acd72c4bd6655eb65855c76090f4e5&n=1701558834&i=79.94.219.244
