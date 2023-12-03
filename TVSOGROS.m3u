@@ -1,421 +1,425 @@
 #EXTM3U
 #EXTINF:0 tvg-id="rtp1.pt" group-title="PORTUGAL",|PT|  RTP 1 HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26868&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26868&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  RTP 1 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26869&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26869&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="rtp2.pt" group-title="PORTUGAL",|PT|  RTP 2 HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26870&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26870&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  RTP 2 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26871&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26871&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="RTP3.pt" group-title="PORTUGAL",|PT|  RTP 3
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26872&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26872&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="sic.pt" group-title="PORTUGAL",|PT|  SIC HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26873&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26873&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  SIC 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26874&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26874&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="TVI.pt" group-title="PORTUGAL",|PT|  TVI HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26875&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26875&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  TVI 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26876&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26876&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="sicnoticias.pt" group-title="PORTUGAL",|PT|  SIC Noticias HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26877&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26877&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  SIC Noticias 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26878&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26878&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  CM TV HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26879&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26879&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  CM TV 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26880&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26880&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  CNN Portugal
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26881&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26881&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  CNN Portugal 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26882&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26882&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Bloomberg
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26883&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26883&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="RecordNews.pt" group-title="PORTUGAL",|PT|  Record News
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26884&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26884&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  TCV Cabo Verde
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26885&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26885&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  ARTV Direto
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26886&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26886&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  EuroNews
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26887&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26887&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="RTPMadeira.pt" group-title="PORTUGAL",|PT|  RTP MADEIRA
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26888&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26888&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  TVI FICCAO HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26889&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26889&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  TVI FICCAO 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26890&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26890&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="TVIReal.pt" group-title="PORTUGAL",|PT|  TVI Reality
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26891&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26891&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  TVI Reality 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26892&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26892&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="sicmulher.pt" group-title="PORTUGAL",|PT|  SIC Mulher
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26893&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26893&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  SIC Mulher 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26894&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26894&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="sicradical.pt" group-title="PORTUGAL",|PT|  SIC Radical
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26895&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26895&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  SIC Radical 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26896&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26896&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="TVGlobo.pt" group-title="PORTUGAL",|PT|  TV Globo
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26897&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26897&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  TV Globo 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26898&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26898&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="CanalQ.pt" group-title="PORTUGAL",|PT|  Canal Q
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26899&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26899&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Canal 180
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26900&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26900&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Kuriakos TV
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26901&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26901&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Kuriakos TV 4k
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26902&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26902&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  FATIMA TV
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26903&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26903&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="RTPAfrica.pt" group-title="PORTUGAL",|PT|  RTP Africa
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26904&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26904&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="RTPAcores.pt" group-title="PORTUGAL",|PT|  RTP Acores
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26905&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26905&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  SIC INTERNACIONAL
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26906&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26906&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="tvrecord.pt" group-title="PORTUGAL",|PT|  TV Record HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26907&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26907&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="TVE24h.pt" group-title="PORTUGAL",|PT|  TVE Internacional
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26908&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26908&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Euro Channel HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26909&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26909&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  AZORES TV
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26910&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26910&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  STAR  HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26911&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26911&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="Localvisao.pt" group-title="PORTUGAL",|PT|  LOCALVISAO
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26912&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26912&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  SIC ADVANCE
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26913&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26913&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  SIC OPTO
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26914&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26914&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Galicia HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26915&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26915&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="PORTUGAL",|PT|  Cancao Nova
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26916&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26916&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="TVIInt.pt" group-title="PORTUGAL",|PT|  TVI Internacional
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26917&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26917&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="fox.pt" group-title="PORTUGAL",|PT|  Fox HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26918&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26918&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  FOX 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26919&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26919&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="FOXComedy.pt" group-title="PORTUGAL",|PT|  Fox Comedy HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26920&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26920&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  FOX Comedy 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26921&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26921&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="foxcrime.pt" group-title="PORTUGAL",|PT|  Fox Crime HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26922&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26922&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  FOX Crime 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26923&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26923&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="foxlife.pt" group-title="PORTUGAL",|PT|  Fox Life HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26924&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26924&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  FOX Life 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26925&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26925&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="FoxMovies.pt" group-title="PORTUGAL",|PT|  FOX Movies HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26926&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26926&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  FOX Movies 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26927&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26927&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  TV Cine Action HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26928&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26928&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  TV Cine Action 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26929&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26929&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  TV Cine Edition HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26930&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26930&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  TV Cine Edition 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26931&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26931&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  TV CINE TOP HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26932&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26932&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  TV Cine Top 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26933&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26933&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="axn.pt" group-title="PORTUGAL",|PT|  AXN HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26934&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26934&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  AXN 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26935&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26935&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  AXN Movies HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26936&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26936&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  AXN Movies 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26937&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26937&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="AXNWhite.pt" group-title="PORTUGAL",|PT|  AXN White
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26938&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26938&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  AXN White 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26939&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26939&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="AMC.pt" group-title="PORTUGAL",|PT|  AMC
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26940&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26940&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  AMC 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26941&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26941&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="Cinemundo.pt" group-title="PORTUGAL",|PT|  Cinemundo HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26942&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26942&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Cinemundo 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26943&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26943&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  NOS STUDIOS HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26944&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26944&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  NOS Studio 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26945&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26945&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="hollywood.pt" group-title="PORTUGAL",|PT|  Hollywood HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26946&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26946&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Hollywood 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26947&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26947&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Kuriakus Cine
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26948&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26948&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="GloboPremium.pt" group-title="PORTUGAL",|PT|  GLOBO PREMIUM
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26949&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26949&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  HBO Portugal
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26950&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26950&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="SyFy.pt" group-title="PORTUGAL",|PT|  SyFy HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26951&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26951&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  SYFY 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26952&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26952&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="nationalgeographic.pt" group-title="PORTUGAL",|PT|  Nat Geo HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26953&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26953&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Nat Geo 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26954&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26954&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="NatGeoWild.pt" group-title="PORTUGAL",|PT|  Nat Geo Wild HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26955&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26955&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Nat Geo Wild 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26956&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26956&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="DISCOVERYHD.pt" group-title="PORTUGAL",|PT|  Discovery Channel HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26957&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26957&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Discovery Channel 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26958&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26958&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Investigation Discovery ID HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26959&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26959&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Investigation Discovery ID 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26960&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26960&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="HistoryChannel.pt" group-title="PORTUGAL",|PT|  Historia
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26961&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26961&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="HistoryChannel.pt" group-title="PORTUGAL",|PT|  Historia HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26962&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26962&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="CacaVision.pt" group-title="PORTUGAL",|PT|  CACAVISION
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26963&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26963&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  SIC Caras HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26964&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26964&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  SIC Caras 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26965&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26965&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Odisseia HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26966&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26966&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Odisseia 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26967&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26967&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Crime  Investigation HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26968&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26968&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="rtpmemoria.pt" group-title="PORTUGAL",|PT|  RTP Memoria
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26969&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26969&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="TLC.pt" group-title="PORTUGAL",|PT|  TLC
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26970&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26970&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="CBSReality.pt" group-title="PORTUGAL",|PT|  CBS Reality
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26971&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26971&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Hispasat 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26972&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26972&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="TravelChannel.pt" group-title="PORTUGAL",|PT|  Travel Channel HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26973&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26973&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Blaze HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26974&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26974&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Blaze TV 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26975&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26975&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Casa E Cozinha HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26976&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26976&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Casa E Cozinha 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26977&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26977&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="24Kitchen.pt" group-title="PORTUGAL",|PT|  24 Kitchen HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26978&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26978&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  24 Kitchen 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26979&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26979&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="FoodNetwork.pt" group-title="PORTUGAL",|PT|  Food Network HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26980&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26980&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  S 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26981&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26981&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Zap Viva HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26982&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26982&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  ZAP Viva 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26983&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26983&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="TPAInt.pt" group-title="PORTUGAL",|PT|  TPA INTERNACIONAL
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26984&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26984&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  FTV
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26985&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26985&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  FASHION TV
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26986&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26986&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  DOG TV
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26987&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26987&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  E Entertainment HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26988&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26988&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  E Entertainment 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26989&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26989&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  SIC K HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26990&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26990&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  SIC K 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26991&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26991&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="canalpanda.pt" group-title="PORTUGAL",|PT|  CANAL PANDA
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26992&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26992&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  PANDA KIDS
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26993&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26993&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="PandaBiggs.pt" group-title="PORTUGAL",|PT|  Biggs
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26994&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26994&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="Nickelodeon.pt" group-title="PORTUGAL",|PT|  Nickelodeon
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26995&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26995&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Nick Junior
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26996&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26996&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Nick
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26997&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26997&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="disneychannel.pt" group-title="PORTUGAL",|PT|  Disney Channel
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26998&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26998&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="DisneyJunior.pt" group-title="PORTUGAL",|PT|  Disney Junior HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=26999&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=26999&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Disney
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27000&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27000&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Disney Star Wars
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27001&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27001&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="BabyTV.pt" group-title="PORTUGAL",|PT|  Baby TV
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27002&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27002&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  LOLLY KIDS HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27003&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27003&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Kuriakos Kids
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27004&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27004&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="JimJam.pt" group-title="PORTUGAL",|PT|  Jim Jam
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27005&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27005&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="cartoon.pt" group-title="PORTUGAL",|PT|  Cartoon Network
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27006&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27006&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Boomerang HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27007&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27007&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Canal 11 HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27008&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27008&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Canal 11 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27009&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27009&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="PORTUGAL",|PT|  Sport TV
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27010&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27010&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="PORTUGAL",|PT|  Sport TV  HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27011&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27011&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="SportTV4K.pt" group-title="PORTUGAL",|PT|  Sport TV  4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27012&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27012&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Sport TV 8K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27013&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27013&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",|PT|  Sport TV 1 HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27014&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27014&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",|PT|  Sport TV 1 SD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27015&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27015&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Sport TV 1 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27016&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27016&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Sport TV 1 8K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27017&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27017&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL",|PT|  Sport TV 2 HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27018&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27018&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL",|PT|  Sport  TV 2 SD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27019&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27019&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Sport TV 2 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27020&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27020&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL",|PT|  Sport TV 3 HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27021&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27021&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL",|PT|  Sport TV 3 SD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27022&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27022&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Sport TV 3 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27023&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27023&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="sporttv4.pt" group-title="PORTUGAL",|PT|  Sport TV 4 HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27024&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27024&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Sport TV 4 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27025&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27025&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="PORTUGAL",|PT|  Sport TV 5 HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27026&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27026&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Sport TV 5 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27027&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27027&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Eleven Sport 1 HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27028&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27028&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Eleven Sports 1 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27029&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27029&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Eleven Sport 2 HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27030&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27030&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Eleven Sports 2 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27031&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27031&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Eleven Sport 3 HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27032&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27032&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Eleven Sports 3 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27033&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27033&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Eleven Sport 4 HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27034&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27034&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Eleven Sports 4 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27035&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27035&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Eleven Sport 5 HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27036&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27036&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Eleven Sports 5 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27037&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27037&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Eleven Sport 6 HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27038&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27038&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Eleven Sports 6 HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27039&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27039&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Eleven Sports 6 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27040&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27040&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  BTV 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27041&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27041&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  BTV HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27042&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27042&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",|PT|  Sporting TV
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27043&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27043&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Sporting TV 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27044&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27044&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Porto Canal HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27045&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27045&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Porto Canal 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27046&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27046&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Sport TV NBA
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27047&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27047&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Sport TV NBA 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27048&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27048&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="KombatSport.pt" group-title="PORTUGAL",|PT|  Kombat Sport
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27049&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27049&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="FuelTV.pt" group-title="PORTUGAL",|PT|  Fuel TV
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27050&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27050&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  FUEL TV 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27051&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27051&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="Eurosport1.pt" group-title="PORTUGAL",|PT|  EuroSport 1
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27052&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27052&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  EuroSport 1 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27053&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27053&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="Eurosport2.pt" group-title="PORTUGAL",|PT|  EuroSport 2
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27054&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27054&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  EuroSport 2 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27055&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27055&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ABolaTV.pt" group-title="PORTUGAL",|PT|  A Bola TV
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27056&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27056&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  A Bola 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27057&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27057&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  CACA  PESCA HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27058&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27058&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="pfc.pt" group-title="PORTUGAL",|PT|  PFC
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27059&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27059&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Benfica HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27060&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27060&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Benfica 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27061&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27061&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  FightBox FHD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27062&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27062&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  FIGHT NETWORK 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27063&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27063&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Combate HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27064&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27064&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  RTP ARENA 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27065&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27065&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="Motorvision.pt" group-title="PORTUGAL",|PT|  Motorvision
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27066&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27066&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="TorosTV.pt" group-title="PORTUGAL",|PT|  Toros TV
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27067&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27067&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Toros FHD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27068&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27068&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  WWE
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27069&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27069&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Mezzo HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27070&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27070&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="vh1.pt" group-title="PORTUGAL",|PT|  VH1
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27071&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27071&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  MTV HD
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27072&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27072&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  MTV 4K
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27073&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27073&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="AfroMusic.pt" group-title="PORTUGAL",|PT|  Afro Music
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27074&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27074&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",|PT|  Trace Toca
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27075&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27075&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="TraceTVUrban.pt" group-title="PORTUGAL",|PT|  Trace Urban
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27076&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27076&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
 #EXTINF:0 tvg-id="mcmtop.pt" group-title="PORTUGAL",|PT|  MCM Top
-http://5b75d989c1c1c817a174e24bf4703150.dramostimes.ablatv.me/live/c6.php?z=997&ui=51822&s=CT4E2RP49R&id=27077&h=018184e6c0affde57630c07380e772a85d7a9155&n=1701595183&i=79.94.219.244
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27077&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
+#EXTINF:0 tvg-id="MCMPop.pt" group-title="PORTUGAL",|PT|  MCM Pop
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27078&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
+#EXTINF:0 tvg-id="ClubbingTV.pt" group-title="PORTUGAL",|PT|  Clubbing TV
+http://2a04240f76a78f2e1c4b31b82dcc5ee5.dramostimes.ablatv.me/live/c6.php?z=997&ui=75220&s=CT4E2RP49R&id=27079&h=7a8dc65e7e4d41f79deac2f12eddc8fa22a2788a&n=1681735622&i=79.94.219.244
